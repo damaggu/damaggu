@@ -1,3 +1,1 @@
 # damaggu
-
-## loads of text
